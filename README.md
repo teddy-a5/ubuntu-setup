@@ -33,7 +33,7 @@ The script will:
 1. Clone this repo after a fresh Ubuntu install:
 
    ```bash
-   git clone https://github.com/yourusername/ubuntu-setup.git
+   git clone https://github.com/teddy-a5/ubuntu-setup.git
    cd ubuntu-setup
    ```
 
